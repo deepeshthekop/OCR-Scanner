@@ -1,2 +1,2 @@
-# ocr-scanner
-convert image and pdf into text.
+# OCR-Scanner
+Extract content from image and pdf into a text file.
